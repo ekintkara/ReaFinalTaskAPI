@@ -1,0 +1,17 @@
+C:\Users\kpc\source\repos\ReaTaskApi\Business\bin\Debug\net5.0\Business.deps.json
+C:\Users\kpc\source\repos\ReaTaskApi\Business\bin\Debug\net5.0\Business.dll
+C:\Users\kpc\source\repos\ReaTaskApi\Business\bin\Debug\net5.0\Business.pdb
+C:\Users\kpc\source\repos\ReaTaskApi\Business\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\kpc\source\repos\ReaTaskApi\Business\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\kpc\source\repos\ReaTaskApi\Business\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\kpc\source\repos\ReaTaskApi\Business\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\kpc\source\repos\ReaTaskApi\Business\obj\Debug\net5.0\Business.csproj.AssemblyReference.cache
+C:\Users\kpc\source\repos\ReaTaskApi\Business\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kpc\source\repos\ReaTaskApi\Business\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+C:\Users\kpc\source\repos\ReaTaskApi\Business\obj\Debug\net5.0\Business.AssemblyInfo.cs
+C:\Users\kpc\source\repos\ReaTaskApi\Business\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\kpc\source\repos\ReaTaskApi\Business\obj\Debug\net5.0\Business.csproj.CopyComplete
+C:\Users\kpc\source\repos\ReaTaskApi\Business\obj\Debug\net5.0\Business.dll
+C:\Users\kpc\source\repos\ReaTaskApi\Business\obj\Debug\net5.0\refint\Business.dll
+C:\Users\kpc\source\repos\ReaTaskApi\Business\obj\Debug\net5.0\Business.pdb
+C:\Users\kpc\source\repos\ReaTaskApi\Business\obj\Debug\net5.0\ref\Business.dll
